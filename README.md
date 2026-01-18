@@ -1,7 +1,7 @@
 # Web Application Security – File Inclusion VAPT using OWASP ZAP
 
 ## Overview
-This project demonstrates detection, exploitation, and mitigation of Local File Inclusion (LFI) and Remote File Inclusion (RFI) vulnerabilities in a controlled lab environment using OWASP ZAP, Kali Linux, and Metasploitable.
+This project demonstrates detection, exploitation, and mitigation of Local File Inclusion (LFI) and Remote File Inclusion (RFI) vulnerabilities in a controlled lab (virtual machine) environment using OWASP ZAP, Kali Linux, and Metasploitable.
 
 ## Objectives
 - Identify file inclusion vulnerabilities through automated scanning and manual testing  
@@ -31,6 +31,7 @@ This project demonstrates detection, exploitation, and mitigation of Local File 
 - Writing professional security findings
 
 ## Repository Contents
-- Full project report (PDF)  
+- Full project report (PDF)
+- ZAP Scanning report (PDF)  
 - Evidence screenshots  
 - Secure implementation code (secure.php)
